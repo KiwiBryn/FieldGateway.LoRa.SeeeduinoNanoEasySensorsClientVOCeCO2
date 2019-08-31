@@ -1,6 +1,4 @@
 # FieldGateway.LoRa.SeeeduinoNanoEasySensorsClientVOCeCO2
-Seeeduino Nano, EasySensors RFM95 eCO2 and VOC monitor for my Windows 10 IoT Core LoRa field gateways
-
 [Arduino Nano](https://www.arduino.cc/en/Guide/ArduinoNano), EasySensors RFM95 shield, VOC and eCO2 monitor sensor node for my Windows 10 IoT Core [LoRa](https://lora-alliance.org/) field gateways
 
 I used the [Arduino-Lora](https://github.com/sandeepmistry/arduino-LoRa), [Sparkfun ATSHA204](https://github.com/sparkfun/SparkFun_ATSHA204_Arduino_Library) and [Sparkfun SGP30 library](https://www.sparkfun.com/products/14813) libraries, thank you to the authors Sandeep Mistry & Sparkfun.
